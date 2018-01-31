@@ -1,0 +1,16 @@
+PODS:
+  - CZYOthers (0.1.0)
+
+DEPENDENCIES:
+  - CZYOthers (from `../`)
+
+EXTERNAL SOURCES:
+  CZYOthers:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CZYOthers: 11955bd7326c34ae24dedbdf8ef4cecb179f70da
+
+PODFILE CHECKSUM: 4b71c22751b0c54c44ccdad55d47d5471fc7f4a9
+
+COCOAPODS: 1.2.1

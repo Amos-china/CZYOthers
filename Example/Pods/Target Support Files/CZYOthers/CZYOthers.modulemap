@@ -1,0 +1,6 @@
+framework module CZYOthers {
+  umbrella header "CZYOthers-umbrella.h"
+
+  export *
+  module * { export * }
+}
