@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CZYOthers_Example' do
+  pod 'CZYOthers', :path => '../'
+
+  target 'CZYOthers_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
